@@ -1,2 +1,2 @@
 # teachworthy
-This is where i keep files for Teachworthy
+This is my repo where I keep files for my coursework as I progress through Teachworthy's program.
